@@ -27,7 +27,7 @@
 > [!NOTE]
 > In development
 
-This repository contains the solved exercises from Systems Automation course in the fifth semester.
+This repository contains the solved exercises from Databases course in the fifth semester.
 
 ## 📚 Features
 
