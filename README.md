@@ -1,8 +1,8 @@
 > [!IMPORTANT]
 > The repository and README are under development.
 
-<h1 align="center">Databases - UDESC</h1>
-<div align="center"><i>A complete list of solved exercises</i><br><br>
+<h1 align="center">Database - UDESC</h1>
+<div align="center"><i>The final project</i><br><br>
 <a href="https://github.com/mateusadada/ban-udesc/stargazers"><img src="https://img.shields.io/github/stars/mateusadada/ban-udesc" alt="Stars Badge"/></a>
 <a href="https://github.com/mateusadada/ban-udesc/network/members"><img src="https://img.shields.io/github/forks/mateusadada/ban-udesc" alt="Forks Badge"/></a>
 <a href="https://github.com/mateusadada/ban-udesc/pulls"><img src="https://img.shields.io/github/issues-pr/mateusadada/ban-udesc" alt="Pull Requests Badge"/></a>
