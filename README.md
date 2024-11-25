@@ -55,7 +55,8 @@ You need to have the Python language on your machine along with an IDE (Integrat
 
 ## ✒️ Author
 
-* **Mateus Adada** - *Developer and documentation* - [mateusadada](https://github.com/mateusadada)
+* **Mateus Adada** - *Documentation* - [mateusadada](https://github.com/mateusadada)
+* **Vinicius Eduardo Beuther** - *Developer* - [ViniciusBeuther](https://github.com/ViniciusBeuther)
 
 You can also see the list of all [collaborators](https://github.com/mateusadada/ban-udesc/graphs/contributors) who participated in this project.
 
