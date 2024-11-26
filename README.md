@@ -24,10 +24,9 @@
 
 ## 🚀 Starting
 
-> [!NOTE]
-> In development
+This database project is designed to address the operational challenges faced by Confeitaria Dona Lúcia, providing a solution for managing various aspects of the business. The system ensures control of ingredients by recording information such as descriptions, quantities, brands, and units of measurement. Supplier orders are tracked, including data on quantities purchased, unit prices, and total order values, ensuring a stock overview. Furthermore, the system integrates recipe management, enabling the storage and retrieval of preparation methods, preparation times, yields, and required ingredients, streamlining updates and access to information.  
 
-This repository contains the solved exercises from Databases course in the fifth semester.
+The project also supports sales tracking, associating each transaction with specific products, quantities, and purchase dates. Product pricing dynamically considers ingredient costs and desired profit margins, ensuring financial stability.
 
 ## 📚 Features
 
