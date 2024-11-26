@@ -30,10 +30,13 @@ The project also supports sales tracking, associating each transaction with spec
 
 ## 📚 Features
 
-> [!NOTE]
-> In development
+Used during the evolution of the final project:
 
-Used during the evolution of exercises:
+- **User/Permission Management**: CRUD operations for managing users and permissions.
+- **Table Creation**: Design and create tables for all business aspects.
+- **CRUD with MySQL**: Perform CRUD operations on all data tables using MySQL.
+- **SQL Joins**: Use INNER JOIN, LEFT JOIN, RIGHT JOIN, and FULL JOIN to manage relationships between tables.
+- **Additional SQL Features**: Implement advanced SQL features like subqueries and indexing for improved performance.
 
 ## 📋 Prerequisites
 
