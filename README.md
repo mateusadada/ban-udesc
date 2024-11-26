@@ -1,6 +1,3 @@
-> [!IMPORTANT]
-> The repository and README are under development.
-
 <h1 align="center">Database - UDESC</h1>
 <div align="center"><i>The final project</i><br><br>
 <a href="https://github.com/mateusadada/ban-udesc/stargazers"><img src="https://img.shields.io/github/stars/mateusadada/ban-udesc" alt="Stars Badge"/></a>
@@ -40,13 +37,11 @@ Used during the evolution of the final project:
 
 ## 📋 Prerequisites
 
-You need to have the Python language on your machine along with an IDE (Integrated Development Environment) or a website that can run the codes. For example:
+To run this project, ensure the following prerequisites are met:
 
-* [IDE PyCharm](https://www.jetbrains.com/pycharm/)
-* [IDE Visual Studio Code](https://code.visualstudio.com/)
-* [Website Replit](https://replit.com/)
-* [Website PythonAnywhere](https://www.pythonanywhere.com/)
-* [Website Codecademy](https://www.codecademy.com/)
+- **Database Setup**: Install MySQL on your machine and set up the database using the provided scripts.
+- **Java Environment**: Have Java installed (version 22 or higher) to support the execution of the graphical interface.
+- **Executable File**: Use the provided `.bat` file to launch the graphical interface, which allows interaction with the database through features like CRUD operations and data analysis.
 
 ## 🛠️ Built with
 
